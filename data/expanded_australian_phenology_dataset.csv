@@ -1,0 +1,52 @@
+scientific_name,common_name,family,state,data_source,flower_Jan,flower_Feb,flower_Mar,flower_Apr,flower_May,flower_Jun,flower_Jul,flower_Aug,flower_Sep,flower_Oct,flower_Nov,flower_Dec,seed_Jan,seed_Feb,seed_Mar,seed_Apr,seed_May,seed_Jun,seed_Jul,seed_Aug,seed_Sep,seed_Oct,seed_Nov,seed_Dec
+Eucalyptus globulus,Tasmanian Blue Gum,Myrtaceae,TAS,compiled_estimate,1,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0
+Nothofagus cunninghamii,Myrtle Beech,Nothofagaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Atherosperma moschatum,Sassafras,Atherospermataceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Leptospermum scoparium,Manuka,Myrtaceae,TAS,compiled_estimate,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0,0,0
+Leptospermum lanigerum,Woolly Tea-tree,Myrtaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Melaleuca squamea,Swamp Honey-myrtle,Myrtaceae,TAS,compiled_estimate,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Banksia marginata,Silver Banksia,Proteaceae,TAS,compiled_estimate,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+Tasmannia lanceolata,Mountain Pepper,Winteraceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0
+Dicksonia antarctica,Soft Tree Fern,Dicksoniaceae,TAS,compiled_estimate,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Pomaderris apetala,Dogwood,Rhamnaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Olearia argophylla,Musk Daisy-bush,Asteraceae,TAS,compiled_estimate,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Bedfordia salicina,Blanketleaf,Asteraceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Acacia dealbata,Silver Wattle,Fabaceae,TAS,compiled_estimate,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+Acacia melanoxylon,Blackwood,Fabaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+Lomatia tinctoria,Guitar Plant,Proteaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Richea pandanifolia,Giant Grass Tree,Ericaceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Richea scoparia,Candle Heath,Ericaceae,TAS,compiled_estimate,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Athrotaxis cupressoides,Pencil Pine,Cupressaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Athrotaxis selaginoides,King Billy Pine,Cupressaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Eucryphia lucida,Leatherwood,Cunoniaceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Eucryphia milliganii,Mountain Leatherwood,Cunoniaceae,TAS,compiled_estimate,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Eucalyptus delegatensis,Alpine Ash,Myrtaceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Eucalyptus obliqua,Messmate,Myrtaceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Eucalyptus viminalis,Manna Gum,Myrtaceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Eucalyptus amygdalina,Black Peppermint,Myrtaceae,TAS,compiled_estimate,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Callistemon viridiflorus,Green Bottlebrush,Myrtaceae,TAS,compiled_estimate,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Correa lawrenceana,Mountain Correa,Rutaceae,TAS,compiled_estimate,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Billardiera longiflora,Purple Appleberry,Pittosporaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Anopterus glandulosus,Native Laurel,Escalloniaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Prionotes cerinthoides,Climbing Heath,Ericaceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Pultenaea juniperina,Prickly Beauty,Fabaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Hakea lissosperma,Mountain Needlewood,Proteaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+Grevillea australis,Alpine Grevillea,Proteaceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Olearia phlogopappa,Dusty Daisy-bush,Asteraceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Ozothamnus ferrugineus,Tree Everlasting,Asteraceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Sprengelia incarnata,Pink Swamp Heath,Ericaceae,TAS,compiled_estimate,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Baeckea gunniana,Alpine Baeckea,Myrtaceae,TAS,compiled_estimate,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Richea dracophylla,Dragon Heath,Ericaceae,TAS,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Tetratheca labillardierei,Glandular Pinkbells,Elaeocarpaceae,TAS,compiled_estimate,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+Banksia integrifolia,Coast Banksia,Proteaceae,NSW,compiled_estimate,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Telopea speciosissima,Waratah,Proteaceae,NSW,compiled_estimate,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+Eucalyptus regnans,Mountain Ash,Myrtaceae,VIC,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Acacia pycnantha,Golden Wattle,Fabaceae,SA,compiled_estimate,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Eucalyptus marginata,Jarrah,Myrtaceae,WA,compiled_estimate,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0
+Corymbia ficifolia,Red Flowering Gum,Myrtaceae,WA,compiled_estimate,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Grevillea robusta,Silky Oak,Proteaceae,QLD,compiled_estimate,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+Melaleuca quinquenervia,Broad-leaved Paperbark,Myrtaceae,QLD,compiled_estimate,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+Eucalyptus tetrodonta,Darwin Stringybark,Myrtaceae,NT,compiled_estimate,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+Corymbia citriodora,Lemon-scented Gum,Myrtaceae,QLD,compiled_estimate,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+Allocasuarina verticillata,Drooping Sheoak,Casuarinaceae,SA,compiled_estimate,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Hakea laurina,Pincushion Hakea,Proteaceae,WA,compiled_estimate,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0

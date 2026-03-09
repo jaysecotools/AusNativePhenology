@@ -1,0 +1,11 @@
+scientific_name,common_name,family,state,flower_Jan,flower_Feb,flower_Mar,flower_Apr,flower_May,flower_Jun,flower_Jul,flower_Aug,flower_Sep,flower_Oct,flower_Nov,flower_Dec,seed_Jan,seed_Feb,seed_Mar,seed_Apr,seed_May,seed_Jun,seed_Jul,seed_Aug,seed_Sep,seed_Oct,seed_Nov,seed_Dec,data_source
+Acacia pycnantha,Golden Wattle,Fabaceae,VIC,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,expert
+Eucalyptus regnans,Mountain Ash,Myrtaceae,VIC,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,expert
+Banksia integrifolia,Coast Banksia,Proteaceae,NSW,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,1,1,0,0,0,expert
+Telopea speciosissima,Waratah,Proteaceae,NSW,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,expert
+Eucalyptus camaldulensis,River Red Gum,Myrtaceae,QLD,1,1,1,1,1,0,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,0,0,expert
+Eucalyptus camaldulensis,River Red Gum,Myrtaceae,NSW,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,0,expert
+Eucalyptus camaldulensis,River Red Gum,Myrtaceae,VIC,0,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,1,1,0,0,expert
+Melaleuca quinquenervia,Broad-leaved Paperbark,Myrtaceae,QLD,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1,1,1,expert
+Callistemon citrinus,Crimson Bottlebrush,Myrtaceae,NSW,0,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,0,expert
+Xanthorrhoea australis,Grass Tree,Asphodelaceae,VIC,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,expert
