@@ -1,0 +1,347 @@
+scientific_name	common_name	family	state	growth_form	habitat	endemic_tas	data_source	flower_Jan	flower_Feb	flower_Mar	flower_Apr	flower_May	flower_Jun	flower_Jul	flower_Aug	flower_Sep	flower_Oct	flower_Nov	flower_Dec	fruit_Jan	fruit_Feb	fruit_Mar	fruit_Apr	fruit_May	fruit_Jun	fruit_Jul	fruit_Aug	fruit_Sep	fruit_Oct	fruit_Nov	fruit_Dec	seed_Jan	seed_Feb	seed_Mar	seed_Apr	seed_May	seed_Jun	seed_Jul	seed_Aug	seed_Sep	seed_Oct	seed_Nov	seed_Dec
+Acacia dealbata	Silver Wattle	Fabaceae	TAS	tree	woodland	0	Understorey_Network	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Acacia melanoxylon	Blackwood	Fabaceae	TAS	tree	rainforest	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Acacia myrtifolia	Myrtle Wattle	Fabaceae	TAS	shrub	heath	0	POTN_Inventory	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Acacia stricta	Straight Wattle	Fabaceae	TAS	shrub	woodland	0	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Acacia verticillata	Prickly Moses	Fabaceae	TAS	shrub	wetland	0	POTN_Inventory	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Acaena novae-zelandiae	Common Buzzy	Rosaceae	TAS	herb	woodland	0	POTN_Inventory	0	0	0	0	1	1	1	1	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Acaena echinata	Sheep's Burr	Rosaceae	TAS	herb	grassland	0	TSS	0	0	0	0	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Adenochilus nortonii	White Orchid	Orchidaceae	TAS	orchid	rainforest	1	TSS	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0
+Allocasuarina monilifera	Necklace Sheoak	Casuarinaceae	TAS	shrub	heath	1	compiled_estimate_v2	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Allocasuarina verticillata	Drooping Sheoak	Casuarinaceae	TAS	tree	woodland	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Anodopetalum biglandulosum	Horizontal	Escalloniaceae	TAS	shrub	rainforest	1	Read_1989	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Anopterus glandulosus	Tasmanian Laurel	Escalloniaceae	TAS	shrub	rainforest	1	compiled_estimate_v2	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Archeria comberi	Pink Mountain Heath	Ericaceae	TAS	shrub	alpine	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Archeria eriocarpa		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Archeria hirtella		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Archeria serpyllifolia		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Aristotelia peduncularis	Heart Berry	Elaeocarpaceae	TAS	shrub	rainforest	1	TSS	0	0	0	1	1	1	1	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0
+Asterotrichion discolor	Tasmanian Currajong	Malvaceae	TAS	shrub	wet_forest	1	TSS	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0
+Atherosperma moschatum	Southern Sassafras	Atherospermataceae	TAS	tree	rainforest	0	Read_1989	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Athrotaxis cupressoides	Pencil Pine	Cupressaceae	TAS	tree	alpine	1	Read_1989	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	1	0	0	0	0
+Athrotaxis selaginoides	King Billy Pine	Cupressaceae	TAS	tree	rainforest	1	Read_1989	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	1	0	0	0	0
+Austrocynoglossum latifolium	Forest Hound's Tongue	Boraginaceae	TAS	herb	wet_forest	0	Flora_Tas	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0
+Baeckea gunniana	Alpine Baeckea	Myrtaceae	TAS	shrub	alpine	1	TSS	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Banksia marginata	Silver Banksia	Proteaceae	TAS	shrub	heath	0	Parks_Tas	1	1	1	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0
+Bauera rubioides	Wiry Bauera	Cunoniaceae	TAS	shrub	wet_forest	0	compiled_estimate_v2	1	1	1	1	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1
+Bedfordia linearis		Asteraceae	TAS	shrub	woodland	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Bedfordia salicina	Tasmanian Blanket Leaf	Asteraceae	TAS	shrub	rainforest	1	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Bellendena montana	Mountain Rocket	Proteaceae	TAS	shrub	alpine	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1
+Blandfordia punicea	Tasmanian Christmas Bell	Blandfordiaceae	TAS	herb	heath	1	TSS	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Boronia anemonifolia	Sticky Boronia	Rutaceae	TAS	shrub	heath	0	POTN_Inventory	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Boronia citriodora	Lemon Boronia	Rutaceae	TAS	shrub	heath	0	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Boronia parviflora	Swamp Boronia	Rutaceae	TAS	shrub	wetland	0	POTN_Inventory	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0
+Boronia pilosa	Hairy Boronia	Rutaceae	TAS	shrub	woodland	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Boronia rhomboidea	Broad-leaved Boronia	Rutaceae	TAS	shrub	woodland	0	POTN_Inventory	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Bossiaea cinerea	Showy Bossiaea	Fabaceae	TAS	shrub	heath	0	POTN_Inventory	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Bossiaea prostrata	Creeping Bossiaea	Fabaceae	TAS	shrub	grassland	0	POTN_Inventory	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Bursaria spinosa	Prickly Box	Pittosporaceae	TAS	shrub	woodland	0	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Callistemon pallidus	Lemon Bottlebrush	Myrtaceae	TAS	shrub	wetland	0	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Callitris rhomboidea	Oyster Bay Pine	Cupressaceae	TAS	tree	woodland	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	1	0	0	0	0
+Calorophus elongatus		Restionaceae	TAS	sedge	wetland	0	APC	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Calorophus erostris		Restionaceae	TAS	sedge	wetland	0	APC	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Calystegia marginata	Tasmanian Bindweed	Convolvulaceae	TAS	climber	heath	1	TSS	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0
+Cenarrhenes nitida	Native Plum	Proteaceae	TAS	shrub	rainforest	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0
+Centrolepis aristata		Centrolepidaceae	TAS	herb	wetland	0	APC	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Centrolepis fascicularis	Tufted Centrolepis	Centrolepidaceae	TAS	herb	wetland	0	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Centrolepis monogyna		Centrolepidaceae	TAS	herb	alpine	0	APC	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Centrolepis strigosa	Hairy Centrolepis	Centrolepidaceae	TAS	herb	heath	0	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Cheesemania radicata		Brassicaceae	TAS	herb	alpine	1	APC	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Chiloglottis cornuta	Green Bird Orchid	Orchidaceae	TAS	orchid	rainforest	0	TSS	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Chiloglottis gunnii	Tasmanian Bird Orchid	Orchidaceae	TAS	orchid	rainforest	1	TSS	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Chiloglottis reflexa	Short-clubbed Bird Orchid	Orchidaceae	TAS	orchid	woodland	0	TSS	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Chionogenitas diemensis		Gentianaceae	TAS	herb	alpine	1	APC	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Chionogenitas gunniana		Gentianaceae	TAS	herb	alpine	0	APC	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Chionogenitas muelleriana		Gentianaceae	TAS	herb	alpine	1	APC	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Chrysocephalum apiculatum	Yellow Buttons	Asteraceae	TAS	herb	grassland	0	POTN_Inventory	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Chrysocephalum baxteri	White Everlasting	Asteraceae	TAS	herb	heath	0	TSS	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Craspedia alpina	Alpine Billybuttons	Asteraceae	TAS	herb	alpine	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Craspedia glauca	Common Billybuttons	Asteraceae	TAS	herb	grassland	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Cyathodes glauca	Purple Cheeseberry	Ericaceae	TAS	shrub	rainforest	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0
+Cyathodes juniperina	Prickly Cheeseberry	Ericaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0
+Cyathodes parvifolia	Mountain Cheeseberry	Ericaceae	TAS	shrub	alpine	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0
+Cyathodes straminea		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0
+Cystostemon pubescens		Boraginaceae	TAS	shrub	woodland	1	APC	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0
+Danthonia species	Wallaby Grasses	Poaceae	TAS	grass	grassland	0	APC	0	0	0	0	0	0	0	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Deyeuxia species	Bentgrasses	Poaceae	TAS	grass	grassland	0	APC	0	0	0	0	0	0	0	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Dianella brevicaulis	Small-flowered Flax-lily	Asphodelaceae	TAS	herb	heath	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Dianella revoluta	Spreading Flax-lily	Asphodelaceae	TAS	herb	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Dianella tasmanica	Tasman Flax-lily	Asphodelaceae	TAS	herb	forest	0	Warrnambool_PS	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Dicksonia antarctica	Soft Tree Fern	Dicksoniaceae	TAS	fern	rainforest	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Dillwynia cinerascens	Grey Parrot-pea	Fabaceae	TAS	shrub	heath	0	POTN_Inventory	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Dillwynia glaberrima	Smooth Parrot-pea	Fabaceae	TAS	shrub	heath	0	POTN_Inventory	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Diplarrena latifolia	Western Native Iris	Iridaceae	TAS	herb	wet_forest	1	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Diplarrena moraea	Native Iris	Iridaceae	TAS	herb	woodland	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Dodonaea filiformis		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Dodonaea megazyga		Ericaceae	TAS	shrub	rainforest	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Dodonaea viscosa	Native Hop	Ericaceae	TAS	shrub	woodland	0	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Dracophyllum milliganii	Milligan's Dragonleaf	Ericaceae	TAS	shrub	alpine	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Dracophyllum minimum	Alpine Cushion Plant	Ericaceae	TAS	shrub	alpine	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Dracophyllum secundum		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Drosera arcturi	Alpine Sundew	Droseraceae	TAS	herb	alpine	0	compiled_estimate_v2	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Drosera binata	Forked Sundew	Droseraceae	TAS	herb	wetland	0	TSS	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Drosera murfetii	Murfet's Sundew	Droseraceae	TAS	herb	wetland	1	TMAG_2014	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Drosera peltata	Pale Sundew	Droseraceae	TAS	herb	woodland	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0
+Drosera pygmaea	Dwarf Sundew	Droseraceae	TAS	herb	wetland	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0
+Drymophila cyanocarpa	Turquoise Berry	Smilacaceae	TAS	herb	rainforest	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Epacris acuminata		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris apiculata		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris barbata		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris corymbiflora		Ericaceae	TAS	shrub	heath	0	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris curtisiae		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris exserta	South Esk Heath	Ericaceae	TAS	shrub	woodland	1	TSS	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0
+Epacris gunnii		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris heteronema		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris impressa	Common Heath	Ericaceae	TAS	shrub	heath	0	compiled_estimate_v2	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris lanuginosa	Woolly Heath	Ericaceae	TAS	shrub	wetland	0	TSS	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0
+Epacris marginata		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris mucronulata		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris myrtifolia		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris navicularis		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris obtusifolia	Blunt-leaf Heath	Ericaceae	TAS	shrub	wetland	0	TSS	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Epacris paludosa	Swamp Heath	Ericaceae	TAS	shrub	wetland	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Epacris petrophila		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Epacris serpyllifolia	Thyme Heath	Ericaceae	TAS	shrub	alpine	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Epacris virgata		Ericaceae	TAS	shrub	heath	1	APC	1	1	1	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Eucalyptus amygdalina	Black Peppermint	Myrtaceae	TAS	tree	alpine	1	compiled_estimate_v2	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0
+Eucalyptus barberi	Barber's Gum	Myrtaceae	TAS	tree	woodland	1	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus brookeriana	Brooker's Gum	Myrtaceae	TAS	tree	wet_forest	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus coccifera	Tasmanian Snow Gum	Myrtaceae	TAS	tree	alpine	1	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus cordata	Heart-leaved Silver Gum	Myrtaceae	TAS	tree	woodland	1	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus dalrympleana	Mountain Gum	Myrtaceae	TAS	tree	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus delegatensis	Alpine Ash	Myrtaceae	TAS	tree	rainforest	1	compiled_estimate_v2	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0
+Eucalyptus globulus	Blue Gum	Myrtaceae	TAS	tree	woodland	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus gunnii	Cider Gum	Myrtaceae	TAS	tree	woodland	1	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus johnstonii	Jubilee Gum	Myrtaceae	TAS	tree	wet_forest	1	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus morrisbyi	Morrisby's Gum	Myrtaceae	TAS	tree	woodland	1	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus nitida	Western Peppermint	Myrtaceae	TAS	tree	heath	0	TSS	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0
+Eucalyptus obliqua	Stringybark	Myrtaceae	TAS	tree	wet_forest	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+Eucalyptus ovata	Swamp Gum	Myrtaceae	TAS	tree	wetland	0	TSS	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus pauciflora	Snow Gum	Myrtaceae	TAS	tree	woodland	1	compiled_estimate_v2	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1
+Eucalyptus perriniana	Spinning Gum	Myrtaceae	TAS	tree	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus pulchella	White Peppermint	Myrtaceae	TAS	tree	woodland	1	TSS	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0
+Eucalyptus radiata		Narrow-leaved Peppermint	Myrtaceae	TAS	tree	woodland	0	TSS	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0
+Eucalyptus regnans	Mountain Ash	Myrtaceae	TAS	tree	wet_forest	0	TSS	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+Eucalyptus risdonii	Risdon Peppermint	Myrtaceae	TAS	tree	woodland	1	TSS	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0
+Eucalyptus rodwayi	Swamp Peppermint	Myrtaceae	TAS	tree	wetland	1	TSS	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0
+Eucalyptus rubida	CandlebarK Gum	Myrtaceae	TAS	tree	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Eucalyptus sieberi	Silvertop Ash	Myrtaceae	TAS	tree	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1
+Eucalyptus tenuiramis	Silver Peppermint	Myrtaceae	TAS	tree	woodland	1	TSS	1	1	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0
+Eucalyptus viminalis	Manna Gum	Myrtaceae	TAS	tree	heath	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Euphrasia amphidens		Orobanchaceae	TAS	herb	alpine	1	TMAG_2014	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Euphrasia collina	Purple Eyebright	Orobanchaceae	TAS	herb	grassland	0	TSS	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0
+Euphrasia gibbsiae	Gibbs' Eyebright	Orobanchaceae	TAS	herb	alpine	0	TSS	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Euphrasia hookeri	Hooker's Eyebright	Orobanchaceae	TAS	herb	alpine	1	TSS	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Euphrasia scabra	Rough Eyebright	Orobanchaceae	TAS	herb	grassland	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0
+Exocarpos cupressiformis	Native Cherry	Santalaceae	TAS	shrub	woodland	0	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Exocarpos strictus	Dwarf Cherry	Santalaceae	TAS	shrub	heath	0	POTN_Inventory	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Gahnia grandis	Cutting Sedge	Cyperaceae	TAS	sedge	heath	1	compiled_estimate_v2	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Gahnia radula	Thatch Saw-sedge	Cyperaceae	TAS	sedge	heath	0	TSS	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Gleichenia alpina	Alpine Coral Fern	Gleicheniaceae	TAS	fern	alpine	0	TSS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Gleichenia dicarpa	Pouched Coral Fern	Gleicheniaceae	TAS	fern	heath	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Gleichenia microphylla	Scrambling Coral Fern	Gleicheniaceae	TAS	fern	wet_forest	0	TSS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Goodenia lanata	Trailing Goodenia	Goodeniaceae	TAS	herb	wet_forest	0	TSS	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Goodenia ovata	Hop Goodenia	Goodeniaceae	TAS	shrub	woodland	0	POTN_Inventory	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Hakea epiglottis	Beaked Hakea	Proteaceae	TAS	shrub	heath	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Hakea lissosperma	Mountain Hakea	Proteaceae	TAS	shrub	alpine	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Hakea microcarpa	Small-fruited Hakea	Proteaceae	TAS	shrub	alpine	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Hakea nodosa	Yellow Hakea	Proteaceae	TAS	shrub	wetland	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Hakea teretifolia	Needle Hakea	Proteaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Helichrysum lanceolatum		Elephanthead	Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Helichrysum milliganii		Milligan's Everlasting	Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Helichrysum paralium		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Helichrysum pumilum		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Helichrysum scorpioides	Curry Everlasting	Ericaceae	TAS	herb	woodland	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Hibbertia acicularis	Prickly Guineaflower	Dilleniaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Hibbertia empetrifolia	Scrambling Guineaflower	Dilleniaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Hibbertia prostrata	Prostrate Guineaflower	Dilleniaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Hibbertia riparia	Erect Guineaflower	Dilleniaceae	TAS	shrub	grassland	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Hibbertia serpyllifolia	Thyme Guineaflower	Dilleniaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Hydrocotyle species	Pennyworts	Apiaceae	TAS	herb	wetland	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0
+Isolepis species	Club Sedges	Cyperaceae	TAS	sedge	wetland	0	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Juncus species	Rushes	Juncaceae	TAS	herb	wetland	0	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Lagarostrobos franklinii	Huon Pine	Podocarpaceae	TAS	tree	rainforest	1	TSS	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	1	0	0	0	0
+Lepidorrhachis mooreana		Arecaceae	TAS	tree	rainforest	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Lepidosperma elatius	Tall Sword-sedge	Cyperaceae	TAS	sedge	wet_forest	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Lepidosperma filiforme	Common Sword-sedge	Cyperaceae	TAS	sedge	heath	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Lepidosperma gladiatum	Coastal Sword-sedge	Cyperaceae	TAS	sedge	coastal	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Lepidosperma laterale	Variable Sword-sedge	Cyperaceae	TAS	sedge	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Lepidosperma monticola	Mountain Sword-sedge	Cyperaceae	TAS	sedge	alpine	1	TMAG_2014	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Leptecophylla juniperina	Pink Mountain Berry	Ericaceae	TAS	shrub	alpine	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0
+Leptorhynchos nitidus	Shiny Buttons	Asteraceae	TAS	herb	grassland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Leptospermum glaucescens		Myrtaceae	TAS	shrub	heath	1	APC	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1
+Leptospermum lanigerum	Woolly Tea-tree	Myrtaceae	TAS	shrub	wetland	0	TSS	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1
+Leptospermum nitidum	Shiny Tea-tree	Myrtaceae	TAS	shrub	heath	1	TSS	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1
+Leptospermum riparium		Myrtaceae	TAS	shrub	rainforest	1	APC	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1
+Leptospermum scoparium	Manuka	Myrtaceae	TAS	shrub	heath	0	Wellington_2022	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1
+Leucopogon collinus		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Leucopogon ericoides		Ericaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Leucopogon esquamatus		Ericaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Leucopogon lanceolatus		Ericaceae	TAS	shrub	rainforest	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Leucopogon montanus		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Leucopogon parviflorus	Coastal Beard-heath	Ericaceae	TAS	shrub	coastal	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Leucopogon stuartii		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Leucopogon virgatus		Ericaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Lindsaea linearis	Screw Fern	Lindsaeaceae	TAS	fern	heath	0	TSS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Lomandra longifolia	Spiny-headed Mat-rush	Lomandraceae	TAS	herb	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Lomatia polymorpha		Proteaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Lomatia tasmanica	King's Lomatia	Proteaceae	TAS	shrub	rainforest	1	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Lomatia tinctoria	Guitar Plant	Proteaceae	TAS	shrub	heath	1	compiled_estimate_v2	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Lycopodium deuterodensum	Bushy Clubmoss	Lycopodiaceae	TAS	fern	heath	0	TSS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Lycopodium fastigiatum	Alpine Clubmoss	Lycopodiaceae	TAS	fern	alpine	0	TSS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Lycopodium scariosum	Spreading Clubmoss	Lycopodiaceae	TAS	fern	heath	0	TSS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Melaleuca ericifolia	Swamp Paperbark	Myrtaceae	TAS	shrub	wetland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Melaleuca gibbosa		Myrtaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Melaleuca pallida		Myrtaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Melaleuca squamea	Swamp Honey-myrtle	Myrtaceae	TAS	shrub	wetland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Melaleuca squarrosa	Scented Paperbark	Myrtaceae	TAS	shrub	wetland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+Microcachrys tetragona	Creeping Pine	Podocarpaceae	TAS	shrub	alpine	1	TSS	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Milligania densiflora		Milliganiaceae	TAS	herb	alpine	1	APC	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Milligania longifolia		Milliganiaceae	TAS	herb	alpine	1	APC	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Milligania stylosa		Milliganiaceae	TAS	herb	alpine	1	APC	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Monotoca empetrifolia		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Monotoca glauca		Ericaceae	TAS	shrub	woodland	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Monotoca linifolia		Ericaceae	TAS	shrub	rainforest	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Monotoca rotundifolia		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Monotoca scoparia	Prickly Broom Heath	Ericaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Nematolepis squamea	Satinwood	Ericaceae	TAS	shrub	rainforest	0	TSS	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Notelaea ligustrina	Native Olive	Oleaceae	TAS	shrub	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Nothofagus cunninghamii	Myrtle Beech	Nothofagaceae	TAS	tree	rainforest	0	Howard_1973	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Nothofagus gunnii	Deciduous Beech	Nothofagaceae	TAS	shrub	alpine	1	Read_1989	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	1	1	1	1	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+Olearia algida	Alpine Daisy-bush	Asteraceae	TAS	shrub	alpine	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Olearia argophylla	Musk Daisy-bush	Asteraceae	TAS	shrub	rainforest	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Olearia ericoides		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Olearia glandulosa	Swamp Daisy-bush	Asteraceae	TAS	shrub	wetland	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Olearia hookeri		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Olearia ledifolia		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Olearia lirata		Ericaceae	TAS	shrub	wet_forest	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Olearia persoonioides	Geebung Daisy-bush	Asteraceae	TAS	shrub	rainforest	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Olearia phlogopappa		Dusty Daisy-bush	Asteraceae	TAS	shrub	woodland	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Olearia ramulosa	Twiggy Daisy-bush	Asteraceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Olearia stellulata		Ericaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Olearia tasmanica		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Orites acicularis		Proteaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0
+Orites diversifolius		Proteaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0
+Orites milliganii		Proteaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0
+Orites revoluta	Alpine Orites	Proteaceae	TAS	shrub	alpine	1	compiled_estimate_v2	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0
+Osmorhiza species		Apiaceae	TAS	herb	rainforest	0	APC	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Oxalis perennans	Grassland Wood-sorrel	Oxalidaceae	TAS	herb	grassland	0	TSS	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1
+Ozothamnus antennaria		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus cupressoides	Kerrawang	Ericaceae	TAS	shrub	alpine	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus ferrugineus	Tree Everlasting	Ericaceae	TAS	shrub	wet_forest	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Ozothamnus hookeri		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus ledifolius		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus lycopodioides		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus obcordatus		Ericaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus pholidotus		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus reflexifolius		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus retusus		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus rodwayi		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus rosmarinifolius	Common Everlasting	Ericaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Ozothamnus scutellifolius		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus selaginoides		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Ozothamnus thyrsoideus		Ericaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pandorea pandorana	Wonga Vine	Bignoniaceae	TAS	climber	woodland	0	TSS	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Patersonia fragilis	Short Purple-flag	Iridaceae	TAS	herb	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Patersonia longifolia		Iridaceae	TAS	herb	heath	0	APC	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Patersonia occidentalis	Long Purple-flag	Iridaceae	TAS	herb	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Pentachondra pumila		Ericaceae	TAS	shrub	alpine	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Persoonia gunnii	Gunn's Geebung	Proteaceae	TAS	shrub	woodland	1	TSS	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0
+Persoonia juniperina	Prickly Geebung	Proteaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0
+Persoonia muelleri	Mueller's Geebung	Proteaceae	TAS	shrub	rainforest	1	TSS	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0
+Phebalium daviesii	Davies' Waxflower	Rutaceae	TAS	shrub	woodland	1	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Phebalium squameum		Rutaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Philotheca verrucosa		Rutaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Phyllocladus aspleniifolius	Celery-top Pine	Phyllocladaceae	TAS	tree	rainforest	1	Read_1989	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Pimelea cinerea		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pimelea drupacea		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pimelea flava		Ericaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pimelea humilis		Ericaceae	TAS	shrub	grassland	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pimelea ligustrina		Ericaceae	TAS	shrub	alpine	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pimelea linifolia	Slender Riceflower	Ericaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Pimelea nivea		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pimelea phylicoides		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pimelea sericea		Ericaceae	TAS	shrub	alpine	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pimelea tasmanica		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Pittosporum bicolor	Banyalla	Pittosporaceae	TAS	shrub	rainforest	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Planocarpa petiolaris		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Poa labillardierei	Common Tussock-grass	Poaceae	TAS	grass	woodland	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Poa sieberiana	Grey Tussock-grass	Poaceae	TAS	grass	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Poa species	Tussock Grasses	Poaceae	TAS	grass	grassland	0	APC	0	0	0	0	0	0	0	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Podocarpus lawrencei	Mountain Plum Pine	Podocarpaceae	TAS	shrub	alpine	0	TSS	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	1	0	0	0	0
+Pomaderris apetala	Common Dogwood	Rhamnaceae	TAS	shrub	wet_forest	0	compiled_estimate_v2	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0	0
+Pomaderris elliptica	Yellow Dogwood	Rhamnaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0	0
+Pomaderris pilifera		Rhamnaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	0	0
+Prasophyllum alpinum	Alpine Leek-orchid	Orchidaceae	TAS	orchid	alpine	1	TSS	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Prasophyllum morrisii	Morris's Leek-orchid	Orchidaceae	TAS	orchid	grassland	1	TSS	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Prasophyllum odoratum	Scented Leek-orchid	Orchidaceae	TAS	orchid	grassland	0	TSS	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Prasophyllum tadgellianum	Tadgell's Leek-orchid	Orchidaceae	TAS	orchid	alpine	1	TSS	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Prionotes cerinthoides	Climbing Heath	Ericaceae	TAS	climber	rainforest	1	TSS	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Prostanthera cuneata	Alpine Mint-bush	Lamiaceae	TAS	shrub	alpine	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Prostanthera lasianthos	Christmas Mint-bush	Lamiaceae	TAS	shrub	wet_forest	0	TSS	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Prostanthera linearis		Lamiaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Prostanthera rotundifolia	Round-leaf Mint-bush	Lamiaceae	TAS	shrub	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Pterostylis alpina	Alpine Greenhood	Orchidaceae	TAS	orchid	alpine	1	TSS	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0
+Pterostylis grandiflora		Orchidaceae	TAS	orchid	forest	1	TSS	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0
+Pterostylis nutans	Nodding Greenhood	Orchidaceae	TAS	orchid	forest	0	TSS	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0
+Pterostylis pedunculata	Maroonhood	Orchidaceae	TAS	orchid	grassland	0	TSS	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0
+Pultenaea daphnoides	Large-leaf Bush-pea	Fabaceae	TAS	shrub	woodland	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Pultenaea juniperina	Prickly Bush-pea	Fabaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Pultenaea pedunculata	Matted Bush-pea	Fabaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Pultenaea subalpina		Fabaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Pultenaea tenuifolia	Slender Bush-pea	Fabaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Ranunculus species	Buttercups	Ranunculaceae	TAS	herb	wetland	0	APC	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Richea acerosa		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Richea dracophylla		Dragonleaf	Ericaceae	TAS	shrub	rainforest	1	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Richea gunnii		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Richea milliganii		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Richea pandanifolia	Pandani	Ericaceae	TAS	shrub	alpine	1	compiled_estimate_v2	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Richea procera		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Richea scoparia	Honey Bush	Ericaceae	TAS	shrub	alpine	1	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Richea sprengelioides		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	1
+Rubus gunnianus	Mountain Raspberry	Rosaceae	TAS	herb	alpine	1	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0
+Rubus parvifolius	Small-leaf Bramble	Rosaceae	TAS	shrub	woodland	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0
+Schoenus species	Bog Sedges	Cyperaceae	TAS	sedge	wetland	0	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Senecio species	Groundsels	Asteraceae	TAS	herb	grassland	0	APC	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Sprengelia incarnata	Pink Swamp Heath	Ericaceae	TAS	shrub	wetland	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Sprengelia minima		Ericaceae	TAS	shrub	alpine	1	TMAG_2014	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Sprengelia montana		Ericaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Sprengelia propinqua		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Stylidium graminifolium	Grass Triggerplant	Stylidiaceae	TAS	herb	woodland	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Styphelia adscendens	Golden Heath	Ericaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Styphelia tasmanica		Ericaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Telopea truncata	Tasmanian Waratah	Proteaceae	TAS	shrub	alpine	1	compiled_estimate_v2	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Tetracarpaea tasmannica		Escalloniaceae	TAS	shrub	alpine	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Tetratheca labillardierei		Elaeocarpaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Tetratheca pilosa	Pink-eyes	Elaeocarpaceae	TAS	shrub	heath	0	TSS	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Tetratheca setigera		Elaeocarpaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Thelionema caespitosum	Tufted Lily	Asphodelaceae	TAS	herb	heath	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Thysanotus patersonii	Twining Fringe-lily	Laxmanniaceae	TAS	climber	woodland	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Tmesipteris obliqua	Fork Fern	Psilotaceae	TAS	fern	rainforest	0	TSS	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Tmesipteris ovata		Psilotaceae	TAS	fern	rainforest	0	APC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Tmesipteris parva		Psilotaceae	TAS	fern	rainforest	1	APC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Tmesipteris tannensis		Psilotaceae	TAS	fern	rainforest	1	APC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Tmesipteris truncata		Psilotaceae	TAS	fern	rainforest	0	APC	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0
+Trochocarpa cunninghamii		Ericaceae	TAS	shrub	rainforest	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Trochocarpa disticha		Ericaceae	TAS	shrub	rainforest	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Trochocarpa gunnii		Ericaceae	TAS	shrub	rainforest	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Trochocarpa thymifolia		Ericaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Utricularia australis	Yellow Bladderwort	Lentibulariaceae	TAS	herb	wetland	0	TSS	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+Utricularia barkeri	Barker's Bladderwort	Lentibulariaceae	TAS	herb	wetland	0	TMAG_2014	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+Utricularia dichotoma	Fairy Aprons	Lentibulariaceae	TAS	herb	wetland	0	compiled_estimate_v2	0	0	0	0	1	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+Utricularia monanthos		Lentibulariaceae	TAS	herb	wetland	0	APC	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+Utricularia tenella	Pink Bladderwort	Lentibulariaceae	TAS	herb	wetland	0	TSS	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0
+Velleia montana	Mountain Velleia	Goodeniaceae	TAS	herb	alpine	0	TSS	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Viola cunninghamii	Alpine Violet	Violaceae	TAS	herb	alpine	0	TSS	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0
+Viola hederacea	Ivy-leaf Violet	Violaceae	TAS	herb	wet_forest	0	TSS	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Westringia brevifolia		Lamiaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Westringia rubiifolia		Lamiaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Westringia senifolia		Lamiaceae	TAS	shrub	heath	1	APC	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1	0
+Winifredia sola		Restionaceae	TAS	sedge	wetland	1	Johnson_1986	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0
+Wittsteinia vacciniacea	Baw Baw Berry	Alseuosmiaceae	TAS	shrub	rainforest	0	TSS	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Xanthorrhoea australis	Grass Tree	Asphodelaceae	TAS	shrub	heath	0	compiled_estimate_v2	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Xerochrysum bracteatum	Golden Everlasting	Asteraceae	TAS	herb	grassland	0	TSS	1	1	1	1	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0
+Xyris operculata	Tall Yellow-eye	Xyridaceae	TAS	herb	wetland	0	TSS	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+Zieria arborescens	Stinkwood	Rutaceae	TAS	shrub	rainforest	0	TSS	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Zieria littoralis		Rutaceae	TAS	shrub	coastal	0	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
+Zieria veronicea		Rutaceae	TAS	shrub	heath	0	APC	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	1	1
