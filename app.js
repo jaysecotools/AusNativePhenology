@@ -144,7 +144,7 @@ function updateTable() {
     }
     
     tableBody.innerHTML = '';
-    displayData.slice(0, 100).forEach(row => {
+    displayData.forEach(row => {  // Removed the .slice(0, 100) here
         const tr = document.createElement('tr');
         
         // Format months as abbreviated lists
@@ -166,8 +166,9 @@ function updateTable() {
         tableBody.innerHTML = '<tr><td colspan="6">No species match your filters</td></tr>';
     }
     
+    // Update the result count text to show all results
     document.getElementById('resultCount').textContent = 
-        `${displayData.length} species (showing first 100)`;
+        `${displayData.length} species`;  // Removed the "showing first 100" part
 }
 
 function getActiveMonths(row, prefix) {
